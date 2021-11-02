@@ -1,6 +1,6 @@
 let fs = require('fs')
 let chalk = require('chalk')
-global.owner = ['380944182435', '436504463151111']
+global.owner = ['62858494890655', '60102810046']
 global.autoread = false
 global.selfmode = false
 global.thumb = './thumb/itsuki.jpg'
@@ -17,7 +17,7 @@ success: 'Sukses...'
 }
 global.server = false
 global.prefix = '🐤'
-global.author = '@caliph91_'
+global.author = '@bot wa'
 global.packname = 'WhatsApp Bot'
 
 
