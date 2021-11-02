@@ -81,8 +81,8 @@ case prefix+'help': case prefix+'menu':
 caliph.updatePresence(m.chat, 'composing')
 var menu = `*WHATSAPP BOT*
 
-Source code : https://clph.pw/m9oU
-Author : @caliph91
+Source code : https://clph.pw/Aiman404*͘⁴̅⁰͍⁴̵〆
+Author : @Aiman.xzy
 Lib : Baileys
 Battery : ${caliph.battery ? caliph.battery.value +'%' : 'Belum kedetect'} ${caliph.battery ? caliph.battery.live ? '🔌 Charging...' : '⚡ Discharging' : ''}
 
